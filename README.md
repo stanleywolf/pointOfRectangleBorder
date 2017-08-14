@@ -1,0 +1,2 @@
+# pointOfRectangleBorder
+complexCondition06
